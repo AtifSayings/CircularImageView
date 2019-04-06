@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularImageView">
+        <attr name="c_border" format="boolean" />
+        <attr name="c_border_width" format="dimension" />
+        <attr name="c_border_color" format="color" />
+        <attr name="c_background_color" format="color" />
+        <attr name="c_shadow" format="boolean" />
+        <attr name="c_shadow_color" format="color" />
+        <attr name="c_shadow_radius" format="float" />
+        <attr name="c_shadow_gravity">
+            <flag name="center" value="1" />
+            <flag name="top" value="2" />
+            <flag name="bottom" value="3" />
+            <flag name="start" value="4" />
+            <flag name="end" value="5" />
+        </attr>
+    </declare-styleable>
+</resources>
