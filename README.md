@@ -1,9 +1,10 @@
 # CircularImageView
+[![](https://jitpack.io/v/mohammadatif/CircularImageView.svg)](https://jitpack.io/#mohammadatif/CircularImageView)
+
+
 CircularImageView to show your images in Circular Shape.
 * min SDK 16 (Android Jellybean 4.1)
 * written in Java
-
-[![](https://jitpack.io/v/mohammadatif/CircularImageView.svg)](https://jitpack.io/#mohammadatif/CircularImageView)
 
 A lightweight and fully customizable library to show your images in Circular Form
 
@@ -28,12 +29,17 @@ dependencies {
 ## Usage
 ```xml
 <com.blogspot.atifsoftwares.circularimageview.CircularImageView
-        android:layout_width="200dp"
-        android:layout_height="200dp"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:src="@drawable/ic_launcher_background"
-        app:c_background_color="#000"
+        android:src="@drawable/firebase_logo"
+        app:c_background_color="@color/colorPrimary"
         app:c_border="true"
-        app:c_border_width="10dp" />
+        app:c_border_color="#AFA5A5"
+        app:c_border_width="10dp"
+        app:c_shadow="true"
+        app:c_shadow_color="#000"
+        app:c_shadow_gravity="end"
+        app:c_shadow_radius="5dp" />
 ```
