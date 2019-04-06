@@ -27,7 +27,7 @@ dependencies {
 }
 ```
 ## Usage
-# Using XML Layout
+### Using XML Layout
 ```xml
 <com.blogspot.atifsoftwares.circularimageview.CircularImageView
         android:id="@+id/imageView"
@@ -44,7 +44,7 @@ dependencies {
         app:c_shadow_gravity="end"
         app:c_shadow_radius="5.5" />
 ```
-# Programatically
+### Programatically
 ```java
 CircularImageView circularImageView = findViewById(R.id.imageView);
 circularImageView.setImageResource(R.drawable.profile_pic);
