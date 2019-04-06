@@ -27,6 +27,7 @@ dependencies {
 }
 ```
 ## Usage
+#Using Layout
 ```xml
 <com.blogspot.atifsoftwares.circularimageview.CircularImageView
         android:id="@+id/imageView"
@@ -42,4 +43,9 @@ dependencies {
         app:c_shadow_color="#000"
         app:c_shadow_gravity="end"
         app:c_shadow_radius="5.5" />
+```
+#Programatically
+```java
+CircularImageView circularImageView = findViewById(R.id.imageView);
+        circularImageView.setImageResource(R.drawable.profile_pic);
 ```
