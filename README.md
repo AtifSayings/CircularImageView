@@ -29,17 +29,17 @@ dependencies {
 ## Usage
 ```xml
 <com.blogspot.atifsoftwares.circularimageview.CircularImageView
-        android:layout_width="250dp"
-        android:layout_height="250dp"
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:src="@drawable/firebase_logo"
+        android:src="@drawable/profile_pic"
         app:c_background_color="@color/colorPrimary"
         app:c_border="true"
-        app:c_border_color="#AFA5A5"
-        app:c_border_width="10dp"
+        app:c_border_color="#4A97E4"
+        app:c_border_width="5.5dp"
         app:c_shadow="true"
         app:c_shadow_color="#000"
         app:c_shadow_gravity="end"
-        app:c_shadow_radius="5dp" />
+        app:c_shadow_radius="5.5" />
 ```
