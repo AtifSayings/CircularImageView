@@ -10,7 +10,7 @@ A lightweight and fully customizable library to show your images in Circular For
 
 ## Screenshots
 <div align="center">
-    <img src="https://github.com/mohammadatif/CircularImageView/blob/master/Screenshots/Screenshot_1554525698.png" height="600px" width="300px"</img> 
+    <img src="https://github.com/mohammadatif/CircularImageView/blob/master/Screenshots/Screenshot_1554525586.png" height="600px" width="300px"</img> 
     <img src="https://github.com/mohammadatif/CircularImageView/blob/master/Screenshots/Screenshot_2019-04-06-10-00-47-54.png" height="600px" width="300px"</img> 
 </div>
 
