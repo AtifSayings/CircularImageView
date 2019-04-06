@@ -1,4 +1,4 @@
-# Animatoo
+# CircularImageView
 CircularImageView to show your images in Circular Shape.
 * min SDK 16 (Android Jellybean 4.1)
 * written in Java
