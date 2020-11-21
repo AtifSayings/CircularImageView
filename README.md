@@ -1,6 +1,7 @@
 # CircularImageView
 [![](https://jitpack.io/v/mohammadatif/CircularImageView.svg)](https://jitpack.io/#mohammadatif/CircularImageView)
 
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/AtifSayings/CircularImageView/blob/master/license.txt)
 
 CircularImageView to show your images in Circular Shape.
 * min SDK 16 (Android Jellybean 4.1)
