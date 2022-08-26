@@ -53,7 +53,7 @@ dependencyResolutionManagement {
 Add the dependency to your module build.gradle:
 ```java
 dependencies {
-	implementation 'com.github.mohammadatif:CircularImageView:1.0.1'
+	implementation 'com.github.AtifSayings:CircularImageView:1.0.2'
 }
 ```
 ## Usage
