@@ -79,7 +79,7 @@ dependencies {
 	implementation 'com.github.AtifSayings:CircularImageView:1.0.2'
 }
 ```
-Add the dependency to your module build.gradle (Kotlin):
+OR. Add the dependency to your module build.gradle (Kotlin):
 ```java
 dependencies {
 	implementation("com.github.AtifSayings:CircularImageView:1.0.2")
